@@ -1,6 +1,6 @@
 # 📊 Stock Portfolio Dashboard
 
-The **Stock Portfolio Dashboard** is a powerful web-based application built to manage and visualize stock portfolios in real-time—both for individual users and combined family portfolios. It seamlessly integrates with Google Sheets as a backend, making it fast, simple, and cost-effective.
+The **Stock Portfolio Dashboard** is a powerful web-based application built to manage and visualize stock portfolios in real-time — both for individual users and combined family portfolios. It seamlessly integrates with Google Sheets as a backend, making it fast, simple, and cost-effective.
 
 ---
 
